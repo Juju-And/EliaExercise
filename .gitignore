@@ -1,0 +1,15 @@
+# virtualenv
+.venv/
+venv/
+ENV/
+
+.Notes
+Notes
+
+reports
+
+__pycache__/
+
+../.idea
+
+cleaned_customer_reviews.txt
